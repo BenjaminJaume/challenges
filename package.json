@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "collection-visit": "^1.0.0",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "define-property": "^2.0.2",
     "extend-shallow": "^3.0.2",
     "fragment-cache": "^0.2.1",
